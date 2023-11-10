@@ -217,14 +217,8 @@ button {
 
 @media (max-width: 768px) {
   li,
-  ul,
-  .a-tg {
+  ul, {
     display: none;
-  }
-}
-@media (max-width: 768px) {
-  .page__header {
-    justify-content: space-between;
   }
 }
 /* @media (max-width: 768px) {
